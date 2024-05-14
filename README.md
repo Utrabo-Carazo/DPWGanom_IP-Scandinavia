@@ -1,0 +1,1 @@
+This repository contains the series of daily anomalies of Daily Peak Wind Gust (DPWG) for the Iberian Peninsula (IP) from 1961 to 2019 and for Scandinavia from 1996 to 2016 used in : "Effects of extreme stratospheric polar vortex events on near-surface wind gusts across Europe" 
